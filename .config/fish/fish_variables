@@ -1,0 +1,5 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR HOMEBREW_CASK_OPTS:\x2d\x2dappdir\x3d\x7e/Applications
+SETUVAR fish_user_paths:/opt/homebrew/sbin\x1e/opt/homebrew/bin
+SETUVAR _fisher_plugins:ilancosman/tide\x40v5
